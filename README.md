@@ -18,6 +18,9 @@ With over 3 years of experience as a Software Engineer, I’ve worked on buildin
   <a href="https://www.linkedin.com/in/shivani-1105" style="margin-left: 16px;">
     <img src="https://img.shields.io/badge/LinkedIn-43BCCD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://shivani-portfolio-flame.vercel.app/" style="margin-left: 16px;">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
